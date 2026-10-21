@@ -1,4 +1,4 @@
-# Dinheirômetro · Controle de despesas
+# Análise de Gastos · Controle de despesas
 
 [← Voltar ao portfólio](../README.md)
 
